@@ -4,7 +4,7 @@ Recent Knox College graduate with a double major in Quantitative Economics and B
 
 ## 📊 Featured Projects
 
-- **DCF Valuation Model** - Excel-based discounted cash flow analysis with sensitivity tables
+- **[DCF Valuation Model](https://github.com/khalidbabdullah/netflix-dcf-valuation)** - Excel-based discounted cash flow analysis for Netflix with sensitivity tables
 - **Tableau Business Dashboard** - Interactive visualization for business analytics
 - **R Econometric Analysis** - Statistical modeling project with full research paper
 
