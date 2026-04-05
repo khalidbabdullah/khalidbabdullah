@@ -18,7 +18,7 @@ Recent Knox College graduate with a double major in Quantitative Economics and B
 
 **Analysis & Modeling:** Financial modeling (DCF, forecasting), Econometric analysis, Business analytics  
 **Tools:** Excel/VBA, Tableau, R, SQL  
-**Certifications:** FMVA, FPAP, DataCamp SQL Associate, SAP Financials, Tableau
+**Certifications:** FMVA, FPAP, DataCamp SQL Associate, DataCamp Tableau Analyst, SAP Financials
 
 ## 📄 Resume
 
