@@ -12,6 +12,7 @@ Recent Knox College graduate with a double major in Quantitative Economics and B
 
 ### R: Econometric Analysis
 - **[U.S. Fiscal Policy SVAR Analysis](https://github.com/khalidbabdullah/fiscal-policy-svar-analysis)** - Time-series econometric study using VECM and SVAR models to measure fiscal multipliers
+- **[Historical Crime & Agricultural Productivity](https://github.com/khalidbabdullah/historical-crime-agricultural-productivity)** - Panel data analysis examining crime, inequality, and agricultural output in Mandate Palestine (1926-1945)
 
 ## 🛠️ Skills
 
