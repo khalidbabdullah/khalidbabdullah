@@ -1,10 +1,5 @@
 ![Header](Header.png)
 
-# Hi, I'm Khalid 👋
-Recent Knox College graduate with a double major in Quantitative Economics 
-and Business Management. I build financial models, analyze business data, 
-and create visualizations that turn numbers into insights.
-
 ## 📊 Projects
 
 ### Excel: Financial Modeling
