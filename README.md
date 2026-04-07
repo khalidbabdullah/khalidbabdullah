@@ -32,20 +32,20 @@ and create visualizations that turn numbers into insights.
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ### Specializations
-![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-DCF_|_Forecasting-success?style=flat-square)
-![Econometrics](https://img.shields.io/badge/Econometrics-VECM_|_SVAR_|_Panel_Data-blue?style=flat-square)
-![Business Analytics](https://img.shields.io/badge/Business_Analytics-Dashboards_|_KPIs-orange?style=flat-square)
+![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-DCF_|_Forecasting-1E3A8A?style=flat-square&logoColor=white)
+![Econometrics](https://img.shields.io/badge/Econometrics-VECM_|_SVAR_|_Panel_Data-2563EB?style=flat-square&logoColor=white)
+![Business Analytics](https://img.shields.io/badge/Business_Analytics-Dashboards_|_KPIs-3B82F6?style=flat-square&logoColor=white)
 
 ### Certifications
-![FMVA](https://img.shields.io/badge/FMVA-Certified-green?style=flat-square)
-![FPAP](https://img.shields.io/badge/FPAP-Certified-green?style=flat-square)
-![SQL](https://img.shields.io/badge/DataCamp_SQL-Associate-blue?style=flat-square)
-![Tableau](https://img.shields.io/badge/DataCamp_Tableau-Analyst-orange?style=flat-square)
-![SAP](https://img.shields.io/badge/SAP_Financials-Certified-purple?style=flat-square)
+![FMVA](https://img.shields.io/badge/FMVA-Certified-1E40AF?style=flat-square&logoColor=white)
+![FPAP](https://img.shields.io/badge/FPAP-Certified-1E40AF?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/DataCamp_SQL-Associate-2563EB?style=flat-square&logoColor=white)
+![Tableau](https://img.shields.io/badge/DataCamp_Tableau-Analyst-2563EB?style=flat-square&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_Financials-Certified-3B82F6?style=flat-square&logoColor=white)
 
 ## 📄 Resume
 [View My Resume (PDF)](https://github.com/khalidbabdullah/khalidbabdullah/blob/main/Khalid_Abdullah_Resume.pdf)
