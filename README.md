@@ -27,9 +27,25 @@ and create visualizations that turn numbers into insights.
   explain monthly S&P 500 returns using the FRED API
 
 ## 🛠️ Skills
-**Analysis & Modeling:** Financial modeling (DCF, forecasting), Econometric analysis, Business analytics  
-**Tools:** Excel/VBA, Tableau, R, SQL, Python  
-**Certifications:** FMVA, FPAP, DataCamp SQL Associate, DataCamp Tableau Analyst, SAP Financials
+
+### Languages & Tools
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Specializations
+![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-DCF_|_Forecasting-success?style=flat-square)
+![Econometrics](https://img.shields.io/badge/Econometrics-VECM_|_SVAR_|_Panel_Data-blue?style=flat-square)
+![Business Analytics](https://img.shields.io/badge/Business_Analytics-Dashboards_|_KPIs-orange?style=flat-square)
+
+### Certifications
+![FMVA](https://img.shields.io/badge/FMVA-Certified-green?style=flat-square)
+![FPAP](https://img.shields.io/badge/FPAP-Certified-green?style=flat-square)
+![SQL](https://img.shields.io/badge/DataCamp_SQL-Associate-blue?style=flat-square)
+![Tableau](https://img.shields.io/badge/DataCamp_Tableau-Analyst-orange?style=flat-square)
+![SAP](https://img.shields.io/badge/SAP_Financials-Certified-purple?style=flat-square)
 
 ## 📄 Resume
 [View My Resume (PDF)](https://github.com/khalidbabdullah/khalidbabdullah/blob/main/Khalid_Abdullah_Resume.pdf)
