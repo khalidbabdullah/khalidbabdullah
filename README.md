@@ -37,16 +37,16 @@ and create visualizations that turn numbers into insights.
 ![Stata](https://img.shields.io/badge/Stata-1A5F9E?style=for-the-badge&logoColor=white)
 
 ### Specializations
-![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-DCF_|_3--Statement_|_Budgeting_&_Forecasting-1E3A8A?style=flat-square&logoColor=white)
+![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-DCF_|_3--Statement_|_Budgeting_&_Forecasting-2563EB?style=flat-square&logoColor=white)
 ![Econometrics](https://img.shields.io/badge/Econometrics-Time_Series_|_VAR_|_VECM_|_SVAR_|_Panel_Data_|_DiD_|_IV-2563EB?style=flat-square&logoColor=white)
-![Business Analytics](https://img.shields.io/badge/Business_Analytics-Dashboards_|_KPIs-3B82F6?style=flat-square&logoColor=white)
+![Business Analytics](https://img.shields.io/badge/Business_Analytics-Dashboards_|_KPIs-2563EB?style=flat-square&logoColor=white)
 
 ### Certifications
-![FMVA](https://img.shields.io/badge/FMVA-Certified-1E40AF?style=flat-square&logoColor=white)
-![FPAP](https://img.shields.io/badge/FPAP-Certified-1E40AF?style=flat-square&logoColor=white)
+![FMVA](https://img.shields.io/badge/FMVA-Certified-2563EB?style=flat-square&logoColor=white)
+![FPAP](https://img.shields.io/badge/FPAP-Certified-2563EB?style=flat-square&logoColor=white)
 ![SQL](https://img.shields.io/badge/DataCamp_SQL-Associate-2563EB?style=flat-square&logoColor=white)
 ![Tableau](https://img.shields.io/badge/DataCamp_Tableau-Analyst-2563EB?style=flat-square&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_Financials-Certified-3B82F6?style=flat-square&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_Financials-Certified-2563EB?style=flat-square&logoColor=white)
 
 ## 📄 Resume
 
