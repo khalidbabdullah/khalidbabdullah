@@ -29,11 +29,12 @@ and create visualizations that turn numbers into insights.
 ## 🛠️ Skills
 
 ### Languages & Tools
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1E40AF?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1A5F9E?style=for-the-badge&logoColor=white)
 
 ### Specializations
 ![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-DCF_|_3--Statement_|_Budgeting_&_Forecasting-1E3A8A?style=flat-square&logoColor=white)
@@ -48,10 +49,11 @@ and create visualizations that turn numbers into insights.
 ![SAP](https://img.shields.io/badge/SAP_Financials-Certified-3B82F6?style=flat-square&logoColor=white)
 
 ## 📄 Resume
-[View My Resume (PDF)](https://github.com/khalidbabdullah/khalidbabdullah/blob/main/Khalid_Abdullah_Resume.pdf)
 
-## 📫 Let's Connect
-[LinkedIn](https://linkedin.com/in/khalidbabdullah)
+[![Resume](https://img.shields.io/badge/View_My_Resume-PDF-DC2626?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/khalidbabdullah/khalidbabdullah/blob/main/Khalid_Abdullah_Resume.pdf)
 
+## 💼 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khalidbabdullah)
 ---
 💼 Seeking FP&A Analyst and Business Analyst opportunities in Chicago, Austin, or remote.
