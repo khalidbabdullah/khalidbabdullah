@@ -7,7 +7,7 @@
   \- Discounted cash flow analysis with sensitivity tables and WACC calculations
 
 ### Tableau: Business Analytics
-- **[Customer Churn Analysis](https://github.com/khalidbabdullah/customer-churn-analysis)** - Interactive dashboard analyzing telecom customer retention patterns across 4 dimensions
+- **[Customer Churn Analysis](https://github.com/khalidbabdullah/customer-churn-analysis)** - Telecom dashboard analyzing 6,524 customers with 27.4% churn rate across contract types, payment methods, tenure, and service usage
 - **[Healthcare Cost & LOS Analysis](https://github.com/khalidbabdullah/healthcare-cost-los-analysis)** - Hospital efficiency dashboard analyzing length of stay and cost patterns across 151 NY hospitals using LOD expressions
 
 ### R: Econometric Analysis
