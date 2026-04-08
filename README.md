@@ -7,8 +7,8 @@
   \- Discounted cash flow analysis with sensitivity tables and WACC calculations
 
 ### Tableau: Business Analytics
-- **[Customer Churn Analysis](https://github.com/khalidbabdullah/customer-churn-analysis)** 
-  \- Interactive dashboard analyzing telecom customer retention patterns across 4 dimensions
+- **[Customer Churn Analysis](https://github.com/khalidbabdullah/customer-churn-analysis)** - Interactive dashboard analyzing telecom customer retention patterns across 4 dimensions
+- **[Healthcare Cost & LOS Analysis](https://github.com/khalidbabdullah/healthcare-cost-los-analysis)** - Hospital efficiency dashboard analyzing length of stay and cost patterns across 151 NY hospitals using LOD expressions
 
 ### R: Econometric Analysis
 - **[U.S. Fiscal Policy SVAR Analysis](https://github.com/khalidbabdullah/fiscal-policy-svar-analysis)** 
