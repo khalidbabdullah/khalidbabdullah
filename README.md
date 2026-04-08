@@ -11,10 +11,8 @@
 - **[Healthcare Cost & LOS Analysis](https://github.com/khalidbabdullah/healthcare-cost-los-analysis)** - Hospital efficiency dashboard analyzing length of stay and cost patterns across 151 NY hospitals using LOD expressions
 
 ### R: Econometric Analysis
-- **[U.S. Fiscal Policy SVAR Analysis](https://github.com/khalidbabdullah/fiscal-policy-svar-analysis)** 
-  \- Time-series econometric study using VECM and SVAR models to measure fiscal multipliers
-- **[Historical Crime & Agricultural Productivity](https://github.com/khalidbabdullah/historical-crime-agricultural-productivity)** 
-  \- Panel data analysis examining crime, inequality, and agricultural output in Mandate Palestine (1926–1945)
+- **[U.S. Fiscal Policy SVAR Analysis](https://github.com/khalidbabdullah/fiscal-policy-svar-analysis)** - Measured government spending multipliers using cointegration testing (Johansen), structural VAR with bootstrap impulse responses, and structural break analysis on 20 years of quarterly GDP data
+- **[Historical Crime & Agricultural Productivity](https://github.com/khalidbabdullah/historical-crime-agricultural-productivity)** - Fixed effects panel regression across 20 years examining lagged crime effects on agricultural output, controlling for income inequality and rainfall shocks using district-year observations
 
 ### Python: Financial Analysis
 - **[S&P 500 vs. Macroeconomic Indicators](https://github.com/khalidbabdullah/sp500-macro-analysis)** 
