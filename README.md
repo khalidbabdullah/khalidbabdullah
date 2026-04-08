@@ -3,8 +3,7 @@
 ## 📊 Projects
 
 ### Excel: Financial Modeling
-- **[Netflix DCF Valuation Model](https://github.com/khalidbabdullah/netflix-dcf-valuation)** 
-  \- Discounted cash flow analysis with sensitivity tables and WACC calculations
+- **[Netflix DCF Valuation Model](https://github.com/khalidbabdullah/netflix-dcf-valuation)** - Built 3-statement financial model projecting 5-year revenue and cash flows, calculated WACC-based enterprise value, and performed two-way sensitivity analysis across discount rate and growth assumptions
 
 ### Tableau: Business Analytics
 - **[Customer Churn Analysis](https://github.com/khalidbabdullah/customer-churn-analysis)** - Telecom dashboard analyzing 6,524 customers with 27.4% churn rate across contract types, payment methods, tenure, and service usage
