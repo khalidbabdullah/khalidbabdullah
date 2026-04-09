@@ -25,6 +25,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1E40AF?style=for-the-badge&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power_Pivot-0B5394?style=for-the-badge&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1A5F9E?style=for-the-badge&logoColor=white)
 
