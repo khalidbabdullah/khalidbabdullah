@@ -12,7 +12,8 @@
 ### R: Econometric Analysis
 - **[U.S. Fiscal Policy SVAR Analysis](https://github.com/khalidbabdullah/fiscal-policy-svar-analysis)** - Measured government spending multipliers using cointegration testing (Johansen), structural VAR with bootstrap impulse responses, and structural break analysis on 20 years of quarterly GDP data
 - **[Historical Crime & Agricultural Productivity](https://github.com/khalidbabdullah/historical-crime-agricultural-productivity)** - Fixed effects panel regression across 20 years examining lagged crime effects on agricultural output, controlling for income inequality and rainfall shocks using district-year observations
-### Python: Financial Analysis
+- 
+### Python: Quantitative Finance & Econometrics
 - **[S&P 500 vs. Macroeconomic Indicators](https://github.com/khalidbabdullah/sp500-macro-analysis)**
   \- Does the Fed actually drive the stock market? OLS regression across 100+ months of data says unemployment is the strongest predictor — not interest rates.
 - **[Yield Curve Recession Indicator](https://github.com/khalidbabdullah/yield-curve-recession-indicator)**
