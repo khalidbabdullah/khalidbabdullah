@@ -23,8 +23,11 @@
   \- Standard models assume constant volatility. Markets don't. GARCH captures volatility clustering to show near-term inversion risk is lower than average — but long-horizon risk is significantly higher.
 - **[VAR Yield Curve Analysis](https://github.com/khalidbabdullah/var-yield-curve-analysis)**
   \- Does the Fed drive the yield curve or does the yield curve drive the Fed? 34 years of data say both — bidirectional Granger causality confirmed at p<0.05 with impulse response functions and variance decomposition.
+- **[VECM Yield Curve Analysis](https://github.com/khalidbabdullah/vecm-yield-curve-analysis)**
+  \- The Fed doesn't set rates — it restores equilibrium. VECM across 34 years of data shows the 10-year yield is weakly exogenous while the Fed Funds Rate bears the entire burden of error correction (α = -0.047, p<0.001).
 - **[🔴 LIVE: Yield Curve Risk Monitor](https://yield-curve-monitor.streamlit.app)**
   \- Live dashboard pulling real-time FRED data, fitting GARCH(1,1), and running 10,000 Monte Carlo simulations to classify current inversion risk. Interactive stress testing across 6, 12, and 24-month horizons.
+
   
 ## 🛠️ Skills
 
