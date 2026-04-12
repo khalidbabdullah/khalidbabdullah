@@ -21,6 +21,8 @@
   \- 10,000 simulated futures. One question: how likely is the yield curve to invert again? The answer changes dramatically from 5.9% at 6 months to 20.5% at 24 months.
 - **[GARCH Monte Carlo Yield Curve](https://github.com/khalidbabdullah/garch-monte-carlo-yield-curve)**
   \- Standard models assume constant volatility. Markets don't. GARCH captures volatility clustering to show near-term inversion risk is lower than average — but long-horizon risk is significantly higher.
+- **[VAR Yield Curve Analysis](https://github.com/khalidbabdullah/var-yield-curve-analysis)**
+  \- Does the Fed drive the yield curve or does the yield curve drive the Fed? 34 years of data say both — bidirectional Granger causality confirmed at p<0.05 with impulse response functions and variance decomposition.
 - **[🔴 LIVE: Yield Curve Risk Monitor](https://yield-curve-monitor.streamlit.app)**
   \- Live dashboard pulling real-time FRED data, fitting GARCH(1,1), and running 10,000 Monte Carlo simulations to classify current inversion risk. Interactive stress testing across 6, 12, and 24-month horizons.
   
