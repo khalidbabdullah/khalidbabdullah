@@ -12,17 +12,13 @@
 ### R: Econometric Analysis
 - **[U.S. Fiscal Policy SVAR Analysis](https://github.com/khalidbabdullah/fiscal-policy-svar-analysis)** - Measured government spending multipliers using cointegration testing (Johansen), structural VAR with bootstrap impulse responses, and structural break analysis on 20 years of quarterly GDP data
 - **[Historical Crime & Agricultural Productivity](https://github.com/khalidbabdullah/historical-crime-agricultural-productivity)** - Fixed effects panel regression across 20 years examining lagged crime effects on agricultural output, controlling for income inequality and rainfall shocks using district-year observations
-
 ### Python: Financial Analysis
 - **[S&P 500 vs. Macroeconomic Indicators](https://github.com/khalidbabdullah/sp500-macro-analysis)**
   \- Does the Fed actually drive the stock market? OLS regression across 100+ months of data says unemployment is the strongest predictor — not interest rates.
-
 - **[Yield Curve Recession Indicator](https://github.com/khalidbabdullah/yield-curve-recession-indicator)**
   \- The yield curve has predicted every U.S. recession since 1955. This project tracks it, forecasts the next 6 months using ARIMA, and stress-tests three 2026 scenarios backed by JPMorgan and Schwab research.
-
 - **[Monte Carlo Yield Curve Simulation](https://github.com/khalidbabdullah/monte-carlo-yield-curve-simulation)**
   \- 10,000 simulated futures. One question: how likely is the yield curve to invert again? The answer changes dramatically from 5.9% at 6 months to 20.5% at 24 months.
-
 - **[GARCH Monte Carlo Yield Curve](https://github.com/khalidbabdullah/garch-monte-carlo-yield-curve)**
   \- Standard models assume constant volatility. Markets don't. GARCH captures volatility clustering to show near-term inversion risk is lower than average — but long-horizon risk is significantly higher.
   
