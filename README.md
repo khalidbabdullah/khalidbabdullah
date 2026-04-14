@@ -28,6 +28,7 @@
   \- The Fed doesn't set rates — it restores equilibrium. VECM across 34 years of data shows the 10-year yield is weakly exogenous while the Fed Funds Rate bears the entire burden of error correction (α = -0.047, p<0.001).
 - **[🔴 LIVE: Yield Curve Risk Monitor](https://yield-curve-monitor.streamlit.app)**
   \- Live dashboard pulling real-time FRED data, fitting GARCH(1,1), and running 10,000 Monte Carlo simulations to classify current inversion risk. Interactive stress testing across 6, 12, and 24-month horizons.
+- 🚧 **[Automated Earnings Analyzer](https://github.com/khalidbabdullah/earnings-analyzer)** - Live Streamlit app pulling real-time financials for any ticker — revenue trends, FCF, EPS beat/miss, and valuation metrics generated automatically. *(In Progress)*
 
   
 ## 🛠️ Skills
